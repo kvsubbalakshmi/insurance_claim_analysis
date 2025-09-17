@@ -34,3 +34,4 @@ This dashboard centralizes the data into one place and provides key KPIs and vis
 - DAX – Measures & calculated columns
 
 ### Dashboard
+![Dashboard Preview](./Dashboard.png)
